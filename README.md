@@ -1,5 +1,7 @@
 # awesome-ios-animation
 
+source:http://ios.jobbole.com/84684/
+
 A curated list of awesome iOS animation, including Objective-C and Swift libraries
 
 > 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
